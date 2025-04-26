@@ -1,2 +1,2 @@
 # BTL_KiemThuXamNhap
-BTL KiemThuXamNhap
+ Kiểm thử xâm nhập hệ thống nội bộ qua vùng DMZ
